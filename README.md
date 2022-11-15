@@ -1,7 +1,7 @@
 # Stevens-Net-Linux
 A guide to configuring Stevens-Net on Linux. TLDR: the script depends on gnome-shell. Install gnome, boot into it, and run from there.
 
-__This guide isn't 100% tested, and is based mostly my and others' experience in setting this up. YMMV. If you're really, really stuck, you can go to the TRAC and they'll probably just let you connect to the IoT network__
+_This guide isn't 100% tested, and is based mostly my and others' experience in setting this up. YMMV. If you're really, really stuck, you can go to the TRAC and they'll probably just let you connect to the IoT network_
 
 ## 1. Connect to Stevens-Connect
 From here, there should be a sign-in page that looks something like this:
