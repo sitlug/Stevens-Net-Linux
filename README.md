@@ -1,5 +1,5 @@
 # Stevens-Net-Linux
-A guide to configuring Stevens-Net on Linux. TLDR: the script depends on gnome-shell. Install gnome, boot into it, and run from there.
+A guide to configuring Stevens-Net on Linux. TLDR: the script depends on one of gnome-shell or xwininfo as well as xdg-open, and NetworkManager. Install gnome, boot into it, and run from there.
 
 _This guide isn't 100% tested, and is based mostly my and others' experience in setting this up. YMMV. If you're really, really stuck, you can go to the TRAC and they'll probably just let you connect to the IoT network_
 
