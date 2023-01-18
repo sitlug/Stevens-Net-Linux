@@ -6,7 +6,8 @@ _This guide isn't 100% tested, and is based mostly my and others' experience in 
 ## 1. Connect to Stevens-Connect
 From here, there should be a sign-in page that looks something like this:
 
-<TODO: Insert Image>
+![image](https://user-images.githubusercontent.com/113066497/213235449-2eb2eb57-1188-4a99-861e-b5d442d0cbd6.png)
+
 
 Download the script.
 
